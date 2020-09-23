@@ -133,7 +133,8 @@ export default {
             { label: "Vegatarian", value: "vegetarian", color: "secondary" },
             { label: "Vegan", value: "vegan" },
             { label: "Dairy-free", value: "dairy-free" },
-            { label: "Regular", value: "regular" }
+            { label: "Kosher", value: "kosher" }
+	    { label: "Regular", value: "regular" }
           ]
         }
       };
